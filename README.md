@@ -14,26 +14,27 @@ Takım invenfive
 
 ## Ürün İsmi
 
---Movie App--
+Trafik öğren
 
-## Ürün Açıklaması
+## Ürün açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+Trafik öğren uygulamamız ile insanların trafik hakkında kolaylıkla bilgi sahibi olabileceği bir çevre oluşturup trafikte daha bilinçli bireyler yetiştirmeyi amaçlıyoruz. Bu uygulama sayesinde insanlar eğlenceli bir şekilde trafik kurallarını öğrenecek ve değişen sınav sistemi hakkında bilgi sahibi olabilecekler.
 
-## Ürün Özellikleri
+## Ürün özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Çeşitli kategorilerde pratik yapmayı sağlayan alıştırmalar
+- Ergonomik tasarımı ile kısa süreli kullanıma da uygun 
+- İnternet erişim olmadığında da alışmtırma yapma seçeneği
+- Yanlış sorulardan sonra pratik bilgiler
+- Her gün size özel tamamlayıcı ve pekiştirici sorular
+- Aktivitenize göre tekrar soruları
 
-## Hedef Kitle
+## Hedef kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 18 yaşının üzerindeki bireyler
+- Ehliyet sınavına hazırlanlar
+- Yeni ehliyet almış ve bilgilerini pekiştirmek isteyenler
+- Bilgilerini tazelemek isteyen tüm sürücüler
 
 ## Product Backlog URL
 
