@@ -22,11 +22,11 @@ Akıllı telefonlarda 4 işlem yapmak
 
 ## Ürün özellikleri
 
--Toplama işlemi
--Çıkarma işlemi
--Çarpma işlemi
--Bölüme işlemi
--İki adet sıfır kullanarak büyük sayıları daha kolay yazmak
+- Toplama işlemi
+- Çıkarma işlemi
+- Çarpma işlemi
+- Bölüme işlemi
+- İki adet sıfır kullanarak büyük sayıları daha kolay yazmak
 
 ## Hedef kitle
 
