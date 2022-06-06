@@ -33,9 +33,9 @@ Akıllı telefonlarda 4 işlem yapmak
 - Telefonu olan bireyler
 - 4 işlem yapmak isteyenler
 
-## Product Backlog URL
+## Product Backlog
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+![image](Capture.PNG)
 
 ---
 
