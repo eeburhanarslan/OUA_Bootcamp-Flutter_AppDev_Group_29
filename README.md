@@ -18,7 +18,10 @@ Functional Calculator
 
 ## Ürün açıklaması
 
-Akıllı telefonlarda 4 işlem yapmak
+Akıllı telefonlarda 4 işlem yapmak 
+
+## Demo video ve apk dosyası
+https://drive.google.com/drive/folders/1jFML7KQYL958phhGRaYoOXp9A6fWAaeZ?usp=sharing
 
 ## Ürün özellikleri
 
